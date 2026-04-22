@@ -1,4 +1,3 @@
-yandex.ru, 19144589, DIRECT, f6a6671ca240bcc0
 
 #Updated 31.03.2026
 
@@ -60,7 +59,6 @@ dauup.com, 34142, RESELLER, 4daba13e2b0dfd92
 themediagrid.com, FWN84J, RESELLER, 35d5010d7789b49d
 rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
 xandr.com, 15278, RESELLER, f5ab79cb980f11d1
-yandex.com, 66051405, DIRECT
 smaato.com, 1100059282, RESELLER, 07bcf65f187117b4
 video.unrulymedia.com, 630415254, RESELLER
 pubmatic.com, 161162, RESELLER, 5d62403b186f2ace
@@ -85,6 +83,7 @@ bold-win.com, 1139, RESELLER, 71746737d0bab951
 appnexus.com, 12622, RESELLER
 trustedstack.com, TS677PGY3, RESELLER
 blueseasx.com, 203620, RESELLER, 7998eac5087f6110
+yango-ads.com, 323929031, DIRECT
 kidoz.net, 15614, RESELLER, a109366414b7335e
 video.unrulymedia.com, 2444764291, RESELLER
 triplelift.com, 13423, RESELLER, 6c33edb13117fd86
@@ -92,6 +91,7 @@ display.io, 156748, RESELLER
 pubmatic.com, 167323, RESELLER, 5d62403b186f2ace
 my-cast.tv, 987137, RESELLER, 8c33fe1bd714ffd7
 app-stock.com, 509221, RESELLER, ed8c126ea5971415
+yandex.com, 323929031, DIRECT
 conversantmedia.com, 100358, RESELLER, 03113cd04947736d
 triplelift.com, 12456, RESELLER, 6c33edb13117fd86
 adyoulike.com, f3d16fa10382ca99dca498bd4e9659c4, RESELLER
@@ -109,7 +109,6 @@ pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
 pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
 start.io, 168507669, RESELLER
-yango-ads.com, 66051405, DIRECT
 video.unrulymedia.com, 201313863, RESELLER
 rubiconproject.com, 27867, RESELLER, 0bfd66d529a55807
 lijit.com, 530498, RESELLER, fafdf38b16bf6b2b
